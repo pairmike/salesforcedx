@@ -45,15 +45,15 @@
     [
         "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510945078347,
             "changeTime": 1510945078347,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -506,15 +506,15 @@
     [
         "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 544,
             "modifiedTime": 1510945255722,
             "changeTime": 1510945255722,
-            "isWorkspace": false,
-            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae"
+            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -550,15 +550,15 @@
     [
         "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 395,
             "modifiedTime": 1510945343091,
             "changeTime": 1510945343091,
-            "isWorkspace": false,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -657,7 +657,7 @@
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
             "isDirectory": false,
             "size": 65,
-            "modifiedTime": 1510938372043,
+            "modifiedTime": 1510946679625,
             "changeTime": 1510938372043,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
@@ -894,14 +894,14 @@
     [
         "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 339,
             "modifiedTime": 1510945390882,
             "changeTime": 1510945390882,
-            "contentHash": "4d09d07b856748d0687b12fe627ca5911fcd7a39"
+            "contentHash": "4d09d07b856748d0687b12fe627ca5911fcd7a39",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -937,10 +937,10 @@
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 857,
-            "modifiedTime": 1510945454522,
-            "changeTime": 1510945454522,
-            "contentHash": "f0eee93aeaee12bcc109869b7da65906757d5e55"
+            "size": 571,
+            "modifiedTime": 1510947610378,
+            "changeTime": 1510947610378,
+            "contentHash": "6198df8a9dcbcf2afbb69457dcb9c9c2c609cb66"
         }
     ],
     [
@@ -972,40 +972,40 @@
     [
         "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1510945078350,
             "changeTime": 1510945078350,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 62,
             "modifiedTime": 1510945078348,
             "changeTime": 1510945078348,
-            "contentHash": "73dd2d6095dcb17e014251e571de76a521b53c49"
+            "contentHash": "73dd2d6095dcb17e014251e571de76a521b53c49",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\mike\\Documents\\my_sfdx_project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1510945078350,
             "changeTime": 1510945078350,
-            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663"
+            "contentHash": "b69047ac083bd9c2a693a13cb3f5f7c31edcd663",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
