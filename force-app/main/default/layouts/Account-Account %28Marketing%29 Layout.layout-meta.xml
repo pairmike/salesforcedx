@@ -31,7 +31,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>location__c</field>
+                <field>Location__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
